@@ -4,3 +4,5 @@ In this bootcamp, we'll learn about logistic regression and implement a logistic
 
 ## Bootcamp 2: Predicting House Prices with Linear Regression
 This bootcamp teaches you how to implement a linear regression model to predict house prices. We'll also look into what gradient descent is and how it can be used to find the optimized weights for the model.
+
+![flyer](data_science_flyer.jpg)
